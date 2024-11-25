@@ -24,14 +24,13 @@ On the left hand side, click on "Libraries"
   - If errors pop up of library needed use the search and install in this fasion.
 
 Pin Outs: (Tested on Arduino R4)
-
-  RST -> 9
-  SDA -> 10
-  MOSI -> 11
-  MISO -> 12
-  SCK -> 13
-  VCC -> 3.3v
-  GND -> GND
+  - RST -> 9
+  - SDA -> 10
+  - MOSI -> 11
+  - MISO -> 12
+  - SCK -> 13
+  - VCC -> 3.3v
+  - GND -> GND
 
 "New_Name_RFID.ino"
 
